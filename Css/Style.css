@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#hesapMakinesi{
+    width: 350px;
+    height: auto;
+    background-color: slategray;
+    border-radius: 5px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}
+#ekran{
+    padding: 10px 0px 10px 0px ;
+    text-align: center;
+}
+#sonuc {
+    padding: 10px;
+    width: 90%;
+    border: none;
+    border-radius: 5px;
+    text-align: right;
+    font-size: 50px;
+    word-wrap: break-word;
+}
+#sayilar{
+    text-align: center;
+}
+.Inputs{
+    width: 70px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border: none;
+    outline: none;
+}
+.Off{
+    width: 70px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border: none;
+    outline: none;
+}
+
+button{
+    width: 70px;
+    height: 50px;
+    margin: 4px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    border: none;
+    outline: none;
+}
+
